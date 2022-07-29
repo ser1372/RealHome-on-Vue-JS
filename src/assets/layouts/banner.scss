@@ -1,0 +1,19 @@
+.banner {
+	height: 135px;
+	background: $greyLight;
+	display: flex;
+
+	&__height {
+		height: 100%;
+	}
+
+	&__title {
+		font-size: 37px;
+	}
+
+	&__btn {
+		background: $red;
+		color: #fff;
+		text-transform: uppercase;
+	}
+}
