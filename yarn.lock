@@ -11,7 +11,7 @@
     event-pubsub "4.3.0"
     js-message "1.0.7"
 
-"@ampproject/remapping@^2.1.0":
+"@ampproject/remapping@^2.1.":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@ampproject/remapping/-/remapping-2.2.0.tgz#56c133824780de3174aed5ab6834f3026790154d"
   integrity sha512-qRmjj8nj9qmLTQXXmaR1cck3UXSRMPrbsLJAasZpF+t3riI71BXed5ebIOYwQntykeZuhjsdweEc9BxH5Jc26w==
